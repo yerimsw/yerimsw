@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**yerimsw/yerimsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>👋 Introduction</h3>
+  
+  <a href="https://yerimsw.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-2a2a2a?style=flat&logo=Tistory&logoColor=white"/></a> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerimsw)](https://solved.ac/yerimsw)
+  <br/><br/>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerimsw)](https://solved.ac/yerimsw)
+  
+  <br/>
+  <h3>🛠️ Technology stack</h3>
+  
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+  
+  <br/>
+  <h3>💡 Studying</h3>
+  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  
+  <h3> 
+</div>
